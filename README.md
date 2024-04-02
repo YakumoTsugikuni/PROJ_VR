@@ -1,4 +1,4 @@
-# Primeiro Projeto De Um Site
+# Primeiro Projeto Do meu Site
 
 ## Ideia do site:
 mostrar minhas habilidades, procurar melhorar cada mais meu site até publica-lo
