@@ -1,11 +1,8 @@
-img{
-    padding-left: 50em;
-
-}
-#titulo{
-    background-color: #cfabed;
-    color: #9878cc;
-}
 body{
-    background-color: #7353a3;
+    font-family: sans-serif;
+    background-color: #cfd1d1;
+}
+#field1{
+    border-radius: 5%;
+    background-color: #b776cc;
 }
